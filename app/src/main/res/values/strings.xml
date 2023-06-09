@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioPlayer</string>
+    <string name="kris_radio">Kris Radio Gombong</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="prog_bar">Progressbar</string>
+    <string name="kris_phone">087837800900</string>
+    <string name="wa">Whatsapp</string>
+    <string name="close">Close</string>
+</resources>
